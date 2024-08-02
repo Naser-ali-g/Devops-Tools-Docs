@@ -73,7 +73,7 @@ branch name, a tag, or a relative reference to HEAD.
 ```sh
 git rebase <base>
 ```
-Show a log of changes to the local repository’s HEAD .
+Show a log of changes to the local repository’s HEAD , give more details than " git log " like moving from branche to another .
 Add --relative-date flag to show date info or --all to show all refs.
 ```sh
 git reflog
