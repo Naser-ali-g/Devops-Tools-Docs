@@ -91,7 +91,7 @@ git checkout -b <branch>
 ```
 moving between branchs . if the branch does not exist , creates it and switch to it 
 ```sh
-git switch <branch name>
+git switch -c <branch name>
 ```
 Merge <branch> into the current branch.
 ```sh
